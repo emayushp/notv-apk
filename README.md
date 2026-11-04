@@ -1,7 +1,7 @@
-# NovaTV APK
+# EveryTV APK
 
-Latest build: [NovaTV.apk](https://github.com/emayushp/notv-apk/raw/main/NovaTV.apk)
+Latest build: [EveryTV.apk](https://github.com/emayushp/notv-apk/raw/main/EveryTV.apk)
 
 Fire TV Downloader URL:
 
-    github.com/emayushp/notv-apk/raw/main/NovaTV.apk
+    github.com/emayushp/notv-apk/raw/main/EveryTV.apk
