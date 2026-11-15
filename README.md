@@ -14,3 +14,6 @@ Install through Roku developer mode: Home ×3, Up ×2, Right, Left, Right, Left,
 
 **iPhone / iPad:** [EveryTV.ipa](https://github.com/emayushp/notv-apk/raw/main/EveryTV.ipa)
 Install from a Windows PC or Mac with Sideloadly (or AltStore) using your Apple ID. With a free Apple ID it has to be re-signed every 7 days.
+
+**Windows laptop (no install):** [EveryTV-windows.zip](https://github.com/emayushp/notv-apk/raw/main/EveryTV-windows.zip)
+Unzip and double-click `EveryTV.exe`. It opens in its own window and quits when you close it.
